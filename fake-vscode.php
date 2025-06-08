@@ -853,7 +853,7 @@ if(isset($_GET['file'])){
             </div>
             
             <!-- 题目框架 -->
-            <iframe class="quiz-container" src="http://localhost/ys/<?=$file?>" frameborder="0"></iframe>
+            <iframe class="quiz-container" src="http://127.0.0.1:918/{{ file }}" frameborder="0"></iframe>
             <button class="quiz-toggle" style="opacity: 0;">Toggle Quiz</button>
             
             <!-- 紧急切换按钮 -->
