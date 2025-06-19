@@ -1338,7 +1338,7 @@ v_words = [
         "hiragana": "ひいでる",
         "kanji": "秀でる",
         "chn": "擅长，优秀;数学に秀でる",
-    },    
+    }
 ]
 
 adj_words = [
